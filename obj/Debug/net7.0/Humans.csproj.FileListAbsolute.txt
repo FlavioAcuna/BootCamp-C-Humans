@@ -1,0 +1,5 @@
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\Humans\obj\Debug\net7.0\Humans.csproj.AssemblyReference.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\Humans\obj\Debug\net7.0\Humans.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\Humans\obj\Debug\net7.0\Humans.AssemblyInfoInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\Humans\obj\Debug\net7.0\Humans.AssemblyInfo.cs
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\Humans\obj\Debug\net7.0\Humans.csproj.CoreCompileInputs.cache
